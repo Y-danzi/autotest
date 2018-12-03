@@ -1,0 +1,9 @@
+You had select Chrome browser.
+The test server url is: http://zt.house365.com/project/kaipan/zz/?city=qz&id=8
+Starting Chrome browser.
+Open url: http://zt.house365.com/project/kaipan/zz/?city=qz&id=8
+Maximize the current window.
+Set implicitly wait 10 seconds.
+Had find the element ' 601 ' successful by xpath via value: //*[@room_id='75909']
+The element ' 601 ' was clicked
+Had find the element '  ' successful by xpath via value: //*[@onchange='agree(this);']
